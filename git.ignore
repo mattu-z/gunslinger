@@ -1,5 +1,8 @@
 # Code::Blocks layout file (saves open tabs and window positions)
 *.layout
+*.cbp
+*.depend
+
 
 # Compiled object files
 *.o
