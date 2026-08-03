@@ -1,0 +1,20 @@
+# Code::Blocks layout file (saves open tabs and window positions)
+*.layout
+
+# Compiled object files
+*.o
+*.obj
+
+# Target binaries (executables and libraries)
+*.exe
+*.out
+*.app
+*.bin
+*.dll
+*.so
+*.dylib
+
+# Code::Blocks depend and management files
+.objs/
+obj/
+bin/

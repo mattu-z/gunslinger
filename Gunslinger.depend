@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1785755570 source:c:\users\dell\documents\projects\codeblocks\gunslinger\main.c
+	<raylib.h>
+	"raylib.h"
+
